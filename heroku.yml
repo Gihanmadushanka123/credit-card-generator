@@ -1,6 +1,6 @@
-build:
-  languages:
+build:npm install
+  languages:si
     - go
 
-run:
+run:7888889999999
   web: credit-card-generator
